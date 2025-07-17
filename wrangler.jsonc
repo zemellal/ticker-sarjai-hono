@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "sarjai-backend",
+	"name": "ticker-sarjai-hono",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-07-17",
 	// "compatibility_flags": [
